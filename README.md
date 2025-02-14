@@ -7,7 +7,7 @@
 
 - How to reach me **dota.ne**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me Discord:</h3>
 <p align="left">
 </p>
 
