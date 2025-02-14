@@ -1,1 +1,1 @@
-![Dotasha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=dotasha&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dotasha&layout=compact&theme=radical)
